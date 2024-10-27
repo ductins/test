@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NguyenDucTin\\ltweb\\DAHQTCSDL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2266A67C-1064-4D60-A439-6C01AF82B594}|DAHQTCSDL.csproj|d:\\nguyenductin\\ltweb\\dahqtcsdl\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2266A67C-1064-4D60-A439-6C01AF82B594}|DAHQTCSDL.csproj|solutionrelative:views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2266A67C-1064-4D60-A439-6C01AF82B594}|DAHQTCSDL.csproj|d:\\nguyenductin\\ltweb\\dahqtcsdl\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2266A67C-1064-4D60-A439-6C01AF82B594}|DAHQTCSDL.csproj|solutionrelative:content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2266A67C-1064-4D60-A439-6C01AF82B594}|DAHQTCSDL.csproj|d:\\nguyenductin\\ltweb\\dahqtcsdl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2266A67C-1064-4D60-A439-6C01AF82B594}|DAHQTCSDL.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2266A67C-1064-4D60-A439-6C01AF82B594}|DAHQTCSDL.csproj|d:\\nguyenductin\\ltweb\\dahqtcsdl\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2266A67C-1064-4D60-A439-6C01AF82B594}|DAHQTCSDL.csproj|solutionrelative:views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2266A67C-1064-4D60-A439-6C01AF82B594}|DAHQTCSDL.csproj|d:\\nguyenductin\\ltweb\\dahqtcsdl\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2266A67C-1064-4D60-A439-6C01AF82B594}|DAHQTCSDL.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2266A67C-1064-4D60-A439-6C01AF82B594}|DAHQTCSDL.csproj|d:\\nguyenductin\\ltweb\\dahqtcsdl\\views\\customer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2266A67C-1064-4D60-A439-6C01AF82B594}|DAHQTCSDL.csproj|solutionrelative:views\\customer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2266A67C-1064-4D60-A439-6C01AF82B594}|DAHQTCSDL.csproj|d:\\nguyenductin\\ltweb\\dahqtcsdl\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2266A67C-1064-4D60-A439-6C01AF82B594}|DAHQTCSDL.csproj|solutionrelative:views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\NguyenDucTin\\ltweb\\DAHQTCSDL\\Views\\Customer\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Update.cshtml",
+              "ToolTip": "D:\\NguyenDucTin\\ltweb\\DAHQTCSDL\\Views\\Customer\\Update.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Update.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T12:15:00.881Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\NguyenDucTin\\ltweb\\DAHQTCSDL\\Content\\style.css",
+              "RelativeDocumentMoniker": "Content\\style.css",
+              "ToolTip": "D:\\NguyenDucTin\\ltweb\\DAHQTCSDL\\Content\\style.css",
+              "RelativeToolTip": "Content\\style.css",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-27T12:36:50.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutPage1.cshtml",
+              "DocumentMoniker": "D:\\NguyenDucTin\\ltweb\\DAHQTCSDL\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutPage1.cshtml",
+              "ToolTip": "D:\\NguyenDucTin\\ltweb\\DAHQTCSDL\\Views\\Shared\\_LayoutPage1.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_LayoutPage1.cshtml*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwC4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T12:20:34.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NguyenDucTin\\ltweb\\DAHQTCSDL\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
+              "ToolTip": "D:\\NguyenDucTin\\ltweb\\DAHQTCSDL\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T12:05:10.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\NguyenDucTin\\ltweb\\DAHQTCSDL\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Delete.cshtml",
+              "ToolTip": "D:\\NguyenDucTin\\ltweb\\DAHQTCSDL\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T12:02:45.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\NguyenDucTin\\ltweb\\DAHQTCSDL\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\NguyenDucTin\\ltweb\\DAHQTCSDL\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:01:51.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\NguyenDucTin\\ltweb\\DAHQTCSDL\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\NguyenDucTin\\ltweb\\DAHQTCSDL\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:58:45.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

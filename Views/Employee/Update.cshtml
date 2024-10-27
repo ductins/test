@@ -1,0 +1,48 @@
+﻿@model DAHQTCSDL.Models.Employee
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+@using (Html.BeginForm("Update", "Employee", FormMethod.Post))
+{
+    <div class="d-flex justify-content-center">
+        <div class="col-md-6">
+            <div class="row mb-3">
+                <div class="col">
+                    @Html.LabelFor(t => t.tennv, "Họ Tên");
+                    @Html.TextBoxFor(t => t.tennv, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(t => t.tennv)
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col">
+                    @Html.LabelFor(t => t.ngaysinh, "Ngày sinh");
+                    @Html.TextBoxFor(t => t.ngaysinh, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(t => t.ngaysinh)
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col">
+                    @Html.LabelFor(t => t.diachi, "Địa chỉ");
+                    @Html.TextBoxFor(t => t.diachi, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(t => t.diachi)
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col">
+                    @Html.LabelFor(t => t.sdt, "SDT");
+                    @Html.TextBoxFor(t => t.sdt, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(t => t.sdt)
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col text-center">
+                    <button type="submit" class="btn btn-primary">Cập nhật nhân viên</button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+

@@ -1,0 +1,41 @@
+﻿@model DAHQTCSDL.Models.Customer
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+
+@using (Html.BeginForm("Delete", "Customer", FormMethod.Post))
+{
+    <div class="d-flex justify-content-center">
+        <div class="col-md-6">
+            <div class="row mb-3">
+                <div class="col">
+                    @Html.LabelFor(t => t.tenkh, "Họ Tên");
+                    @Html.TextBoxFor(t => t.tenkh, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(t => t.tenkh)
+                </div>
+            </div>    
+            <div class="row mb-3">
+                <div class="col">
+                    @Html.LabelFor(t => t.diachikh, "Địa chỉ");
+                    @Html.TextBoxFor(t => t.diachikh, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(t => t.diachikh)
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col">
+                    @Html.LabelFor(t => t.sdtkh, "SDT");
+                    @Html.TextBoxFor(t => t.sdtkh, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(t => t.sdtkh)
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col text-center">
+                    <button type="submit" class="btn btn-primary">Xóa nhân viên</button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
